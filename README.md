@@ -10,8 +10,8 @@ Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my
 - Background:
 I'm currently a student studying Computer Science at California State University, Fresno. My interests in the field are Game Development, and Web Development & Design. I have experience programming in C, C++, Java, OpenGL, HTML, CSS, MATLAB, and React.js. I am always eager to learn and connect with new people within various fields. 
 
-![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=react&show_icons=true&hide_border=false&count_private=true) 
-![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=react&show_icons=true&hide_border=false&layout=compact)
+![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=react&show_icons=true&hide_border=true&count_private=true)
+![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## Projects 🧑🏽‍💻
 In my repositories, you'll find a diverse collection of projects that showcase my skills and interests. Here are a few highlights:
