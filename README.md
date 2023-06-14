@@ -1,5 +1,4 @@
-# Welcome to my GitHub! 👋
-![BabyYodaWelcomeGIF](https://github.com/saishnu25/saishnu25/assets/71780053/30ef7864-c307-4aca-acff-85ac45c34474)
+# Welcome to my GitHub! 👋 ![BabyYodaWelcomeGIF](https://github.com/saishnu25/saishnu25/assets/71780053/30ef7864-c307-4aca-acff-85ac45c34474)
 
 
 ## Introduction
