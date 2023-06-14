@@ -12,14 +12,14 @@ I'm currently a student studying Computer Science at California State University
 ## Projects
 In my repositories, you'll find a diverse collection of projects that showcase my skills and interests. Here are a few highlights:
 
-- Project 1 - Menu System:
+Project 1 - Menu System:
 - Constructed a menu-based system using 750+ lines of code in C++ similar to streaming platforms using data structures and linked lists.
 
-- Project 2 - Tesla Dealership:
+Project 2 - Tesla Dealership:
 - Coordinated a team of 5 peers to compile Java code to program a shopping website for Tesla vehicles offered up to the 2020 models including a purchase and receipt feature.
 - Managed 5 independent functions integrations by debugging 15 code errors, resulting in 1,000+ lines of code working efficiently.
 
-- Project 3 - Skybox:
+Project 3 - Skybox:
 - Developed a skybox where users were able to move and observe models loaded within the skybox area through the use of OpenGL, SOIL, C, and C++ that consisted of 550+ lines of code.
 
 Feel free to explore the repositories for my various projects and assignments. Do note that some repositories consists of my work done throughout my college and university life.
