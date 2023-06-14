@@ -1,4 +1,6 @@
 # Welcome to my GitHub! 👋
+![BabyYodaWelcomeGIF](https://github.com/saishnu25/saishnu25/assets/71780053/30ef7864-c307-4aca-acff-85ac45c34474)
+
 
 ## Introduction
 Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my projects and collaborate with the amazing developers here. This README file will give you a brief overview of who I am and what you can expect to find in my repositories.
