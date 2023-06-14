@@ -4,8 +4,8 @@
 Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my projects and collaborate with the amazing developers here. This README file will give you a brief overview of who I am and what you can expect to find in my repositories.
 
 ## About Me
-Name: Saishnu Ramesh Kumar
-Email: saishnu2503@gmail.com
+- Name: Saishnu Ramesh Kumar
+- Email: saishnu2503@gmail.com
 Background
 Tell a bit about your background, interests, and expertise. Mention any relevant educational or professional experiences. Share your passion for technology and software development.
 
