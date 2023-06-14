@@ -34,3 +34,7 @@ I enjoy connecting with fellow developers and exploring new opportunities. Feel 
 LinkedIn: https://www.linkedin.com/in/saishnu25/
 
 ### Thank you for visiting my GitHub profile! I hope you find something interesting and useful in my repositories. Happy coding!
+
+![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+
+![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=gotham&show_icons=true&hide_border=false&layout=compact)
