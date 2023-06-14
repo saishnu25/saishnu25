@@ -1,16 +1,16 @@
 ![BabyYodaWelcomeGIF (2)](https://github.com/saishnu25/saishnu25/assets/71780053/c5762069-dfec-4ead-b2dd-c47c2d5c4a56)
 # Welcome to my GitHub! 👋 
 
-## Introduction 
+## Introduction 🚀
 Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my projects and collaborate with the amazing developers here. This README file will give you a brief overview of who I am and what you can expect to find in my repositories.
 
-## About Me
+## About Me 🤔
 - Name: Saishnu Ramesh Kumar
 - Email: saishnu2503@gmail.com
 - Background:
 I'm currently a student studying Computer Science at California State University, Fresno. My interests in the field are Game Development, and Web Development & Design. I have experience programming in C, C++, Java, OpenGL, HTML, CSS, MATLAB, and React.js. I am always eager to learn and connect with new people within various fields. 
 
-## Projects
+## Projects 🧑🏽‍💻
 In my repositories, you'll find a diverse collection of projects that showcase my skills and interests. Here are a few highlights:
 
 Project 1 - Menu System:
@@ -25,10 +25,10 @@ Project 3 - Skybox:
 
 Feel free to explore the repositories for my various projects and assignments. Do note that some repositories consists of my work done throughout my college and university life.
 
-## Contact Me
+## Contact Me 📥
 If you have any questions, or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
 
-## Let's Connect
+## Let's Connect 🗣️
 I enjoy connecting with fellow developers and exploring new opportunities. Feel free to connect with me on LinkedIn to stay updated with my latest projects and career. 
 
 LinkedIn: https://www.linkedin.com/in/saishnu25/
