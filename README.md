@@ -12,10 +12,11 @@ Tell a bit about your background, interests, and expertise. Mention any relevant
 ## Projects
 In my repositories, you'll find a diverse collection of projects that showcase my skills and interests. Here are a few highlights:
 
-Project 1: A brief description of the project and its purpose.
-Project 2: A brief description of the project and its purpose.
-Project 3: A brief description of the project and its purpose.
-Feel free to explore the repositories for more projects and code snippets. I believe in the power of open-source collaboration, so your feedback and contributions are always welcome!
+- Project 1: A brief description of the project and its purpose.
+- Project 2: A brief description of the project and its purpose.
+- Project 3: A brief description of the project and its purpose.
+
+Feel free to explore the repositories for my various projects. I believe in the power of open-source collaboration, so your feedback and contributions are always welcome!
 
 ## Contact Me
 If you have any questions, suggestions, or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
