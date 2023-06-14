@@ -23,6 +23,6 @@ If you have any questions, suggestions, or just want to connect, I'd be happy to
 ## Let's Connect
 I enjoy connecting with fellow developers and exploring new opportunities. Connect with me on LinkedIn and Twitter to stay updated with my latest projects and thoughts on software development.
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/saishnu25/
 
 Thank you for visiting my GitHub profile! I hope you find something interesting and useful in my repositories. Happy coding!
