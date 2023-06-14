@@ -6,7 +6,7 @@ Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my
 ## About Me
 - Name: Saishnu Ramesh Kumar
 - Email: saishnu2503@gmail.com
-Background
+- Background:
 Tell a bit about your background, interests, and expertise. Mention any relevant educational or professional experiences. Share your passion for technology and software development.
 
 ## Projects
