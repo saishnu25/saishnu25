@@ -32,8 +32,8 @@ Feel free to explore the repositories for my various projects and assignments. D
 If you have any questions, or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
 
 ## Let's Connect 🗣️
-I enjoy connecting with fellow developers and exploring new opportunities. Feel free to connect with me on LinkedIn to stay updated with my latest projects and career. 
+I enjoy connecting with fellow developers and exploring new opportunities. Feel free to connect with me on LinkedIn to stay connected. 
 
 LinkedIn: https://www.linkedin.com/in/saishnu25/
 
-### Thank you for visiting my GitHub profile! I hope you find something interesting and useful in my repositories. Happy coding!
+### Thank you for visiting my GitHub profile! I hope you find something interesting and valuable in my repositories. Happy coding!
