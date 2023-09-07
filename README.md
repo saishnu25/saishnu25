@@ -8,7 +8,7 @@ Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my
 - Name: Saishnu Ramesh Kumar
 - Email: saishnu2503@gmail.com
 - Background:
-I'm currently a student studying Computer Science at California State University, Fresno. My interests in the field are Game Development, and Web Development & Design. I have experience programming in C, C++, Java, OpenGL, HTML, CSS, MATLAB, and React.js. I am always eager to learn and connect with new people within various fields. 
+I'm currently a student studying Computer Science at California State University, Fresno. My interests in the field are Project Management, Game Development, and Web Development and design. I have experience programming in C, C++, Java, OpenGL, HTML, CSS, MATLAB, Python, Haskell, and React.js. I am always eager to learn and connect with new people within various fields. 
 
 ![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=react&show_icons=true&hide_border=true&layout=compact)
@@ -21,19 +21,19 @@ Project 1 - Menu System:
 
 Project 2 - Tesla Dealership:
 - Coordinated a team of 5 peers to compile Java code to program a shopping website for Tesla vehicles offered up to the 2020 models including a purchase and receipt feature.
-- Managed 5 independent functions integrations by debugging 15 code errors, resulting in 1,000+ lines of code working efficiently.
+- Managed 5 independent function integrations by debugging 15 code errors, resulting in 1,000+ lines of code working efficiently.
 
 Project 3 - Skybox:
 - Developed a skybox where users were able to move and observe models loaded within the skybox area through the use of OpenGL, SOIL, C, and C++ that consisted of 550+ lines of code.
 
-Feel free to explore the repositories for my various projects and assignments. Do note that some repositories consists of my work done throughout my college and university life.
+Feel free to explore the repositories for my various projects and assignments. Do note that some repositories consist of my work done throughout my college and university life.
 
 ## Contact Me 📥
-If you have any questions, or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
+If you have any questions or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
 
 ## Let's Connect 🗣️
 I enjoy connecting with fellow developers and exploring new opportunities. Feel free to connect with me on LinkedIn to stay connected. 
 
 LinkedIn: https://www.linkedin.com/in/saishnu25/
 
-### Thank you for visiting my GitHub profile! I hope you find something interesting and valuable in my repositories. Happy coding!
+### Thanks for visiting my GitHub! I hope you find something interesting and valuable in my repositories. Happy coding!
