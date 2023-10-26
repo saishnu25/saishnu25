@@ -16,15 +16,26 @@ I'm currently a student studying Computer Science at California State University
 ## Projects 🧑🏽‍💻
 In my repositories, you'll find a diverse collection of projects that showcase my skills and interests. Here are a few highlights:
 
-Project 1 - Menu System:
-- Constructed a menu-based system using 750+ lines of code in C++ similar to streaming platforms using data structures and linked lists.
+Project 1: Portfolio Website [Individual Project]
+- Established a portfolio website using React.js, HTML, and CSS with over 250+ lines of code.
+- Published the website via Vercel web hosting services. 
 
-Project 2 - Tesla Dealership:
-- Coordinated a team of 5 peers to compile Java code to program a shopping website for Tesla vehicles offered up to the 2020 models including a purchase and receipt feature.
-- Managed 5 independent function integrations by debugging 15 code errors, resulting in 1,000+ lines of code working efficiently.
+Project 2: Statistical Language Modeling, Artificial Intelligence Programming [Individual Project]
+- Formulated a program using MATLAB to predict the likelihood of the next word in a given sequence within a storybook.
+- Designed the program to fulfill various requirements and create a distribution graph of unique words identified in the book.
 
-Project 3 - Skybox:
-- Developed a skybox where users were able to move and observe models loaded within the skybox area through the use of OpenGL, SOIL, C, and C++ that consisted of 550+ lines of code.
+Project 3: Wave Animation, Advanced Computer Graphics [Individual Project]
+- Generated a wave animation within a Skybox using OpenGL, C/C++, and SOIL with over 400+ lines of code.
+
+Project 4: Super Fowl Fists, Game Development [Team Project]
+- Collaborated in the development of a video game alongside 3 peers using OpenGL, C/C++, SOIL, and IRRKLANG with over 2,000+ lines of code containing multiple asset files within.
+- Involved in the sound and audio development, enemy spawn, and game testing.
+- Proposed feedback on the development of an in-house built game engine.
+
+Project 5: Tesla Dealership, Computer Programming Java [Team Project]
+- Coordinated with a team of 5 to compile Java code used to program a website for purchasing Tesla models up to 2020.
+- Supported in including a receipt and purchase feature as if the user were making a real purchase.
+- Managed 5 independent function integrations by debugging 20 code errors, resulting in 1,000+  lines of code working efficiently.
 
 Feel free to explore the repositories for my various projects and assignments. Do note that some repositories consist of my work done throughout my college and university life.
 
