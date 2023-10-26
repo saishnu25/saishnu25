@@ -47,4 +47,4 @@ I enjoy connecting with fellow developers and exploring new opportunities. Feel 
 
 LinkedIn: https://www.linkedin.com/in/saishnu25/
 
-### Thanks for visiting my GitHub! I hope you find something interesting and valuable in my repositories. Happy coding!
+#Thanks for visiting my GitHub, happy coding!
