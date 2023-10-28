@@ -37,7 +37,7 @@ Project 5: Tesla Dealership, Computer Programming Java [Team Project]
 - Supported in including a receipt and purchase feature as if the user were making a real purchase.
 - Managed 5 independent function integrations by debugging 20 code errors, resulting in 1,000+  lines of code working efficiently.
 
-Feel free to explore the repositories for my various projects and assignments. Do note that some repositories consist of my work done throughout my college and university life.
+Feel free to explore the repositories for my various projects and assignments from university.
 
 ## Contact Me 📥
 If you have any questions or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
