@@ -6,7 +6,6 @@ Hello there! I'm Saishnu, and this is my GitHub profile. I'm excited to share my
 
 ## About Me 🤔
 - Name: Saishnu Ramesh Kumar
-- Email: saishnu2503@gmail.com
 - Background:
 I'm currently a student studying Computer Science at California State University, Fresno. My interests in the field are Project Management, Game Development, and Web Development and design. I have experience programming in C, C++, Java, OpenGL, HTML, CSS, MATLAB, Python, Haskell, and React.js. I am always eager to learn and connect with new people within various fields. 
 
@@ -43,8 +42,4 @@ Feel free to explore the repositories for my various projects and assignments.
 If you have any questions or just want to connect, I'd be happy to hear from you. Feel free to reach out via email at saishnu2503@gmail.com.
 
 ## Let's Connect 🗣️
-I enjoy connecting with fellow developers and exploring new opportunities. Feel free to connect with me on LinkedIn to stay connected. 
-
-LinkedIn: https://www.linkedin.com/in/saishnu25/
-
-Thanks for visiting my GitHub, happy coding!
+I enjoy connecting with fellow developers and exploring new opportunities. Feel free to connect with me on LinkedIn!
