@@ -8,7 +8,7 @@ I am currently pursuing a Computer Science degree at California State University
 
 ![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![saishnu25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saishnu25&theme=dark&hide_border=true)
-![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Let's Connect 📥
 Feel free to email me at saishnu2503@gmail.com, connect with me on LinkedIn, or check out my website!
