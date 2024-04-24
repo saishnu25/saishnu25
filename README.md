@@ -6,7 +6,8 @@ Hello there! I'm Saishnu, and this is my GitHub page. I'm excited to share my pr
 ## About Me 🤔
 I am currently pursuing a Computer Science degree at California State University, Fresno. My interests include Project Management, Web Development, and all things IT-related. My tech stack experience includes C, C++, Java, OpenGL, HTML, CSS, ReactJS, Matlab, and Python. I have also completed a Google Project Management Professional Certificate and have some basic experience/knowledge in Agile and Scrum.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/saishnu25?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![saishnu25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saishnu25&theme=dark&hide_border=true)
 ![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Let's Connect 📥
