@@ -9,5 +9,5 @@ I am currently pursuing a Computer Science degree at California State University
 ![saishnu25's Stats](https://github-readme-stats.vercel.app/api?username=saishnu25&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![saishnu25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-## Contact Me & Let's Connect 📥
+## Let's Connect 📥
 Feel free to email me at saishnu2503@gmail.com, connect with me on LinkedIn, or check out my website!
