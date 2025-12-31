@@ -6,10 +6,5 @@ Hello there! I'm Saishnu, and this is my GitHub page. I'm excited to share my pr
 ## About Me 🤔
 Completed a MSc Managing Innovation and Information Technology degree at the University of Salford, UK in September 2025. I previously graduated in May 2024 with a BSc in Computer Science from California State University, Fresno, USA. My passion and drive to learn and adapt allows me to explore the vast methods of complex problem-solving and to gain experience wherever I am. Throughout my long academic journey, I have had the opportunity to acquire a diverse skillset and apply it to various scenarios. I am firmly dedicated to any new opportunities that arise to further enhance my career goals.
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=saishnu25&theme=dark&show_icons=true&hide_border=true&count_private=true" style="max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishnu25&theme=dark&show_icons=true&hide_border=true&layout=compact" style="max-width: 400px;">
-</div>
-
 ## Let's Connect 📥
 Feel free to email me at saishnu2503@gmail.com, connect with me on LinkedIn, or check out my website!
