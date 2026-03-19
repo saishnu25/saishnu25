@@ -33,5 +33,5 @@ Creating things that actually matter
 
 ## 📫 Let’s Connect
 📧 Email: saishnu2503@gmail.com
-💼 LinkedIn: (add your link here)
+💼 LinkedIn: https://www.linkedin.com/in/saishnu25/
 🌐 Website: https://www.saishnu.com/
