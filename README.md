@@ -1,10 +1,37 @@
-# Greetings and welcome to my GitHub! 👋 
+## 🚀 Welcome to my GitHub
 
-## Introduction 🚀
-Hello there! I'm Saishnu, and this is my GitHub page. I'm excited to share my projects and collaborate with amazing people on this platform.
+Hi, I’m Saishnu Ramesh Kumar 👋
+A tech-driven creator and MSc graduate passionate about building impactful digital products.
 
-## About Me 🤔
-Completed a MSc Managing Innovation and Information Technology degree at the University of Salford, UK in September 2025. I previously graduated in May 2024 with a BSc in Computer Science from California State University, Fresno, USA. My passion and drive to learn and adapt allows me to explore the vast methods of complex problem-solving and to gain experience wherever I am. Throughout my long academic journey, I have had the opportunity to acquire a diverse skillset and apply it to various scenarios. I am firmly dedicated to any new opportunities that arise to further enhance my career goals.
+## 👨‍💻 About Me
+🎓 MSc in Managing Innovation & Information Technology – University of Salford (2025)
+🎓 BSc in Computer Science – California State University, Fresno (2024)
 
-## Let's Connect 📥
-Feel free to email me at saishnu2503@gmail.com, connect with me on LinkedIn, or check out my website!
+I’m passionate about combining technology, business, and innovation to create meaningful solutions. My work spans across:
+
+💻 Full-stack development (React, Next.js, Flutter, Swift, Kotlin)
+📊 Data & analytics
+🚀 Product building & experimentation
+🤖 AI-powered tools and automation
+
+Currently, I’m:
+Building and experimenting with new digital products
+Developing apps and platforms that solve real-world problems
+Exploring opportunities in Project Management & Data Analytics
+
+## 🛠️ What I’m Working On
+⚡ Personal portfolio: https://www.saishnu.com/
+🏋️‍♂️ Fitness & tracking app concepts
+🧠 AI-integrated tools and workflows
+🥤 Consumer product innovation
+🌱 Mindset
+
+## I believe in:
+Continuous learning
+Iteration over perfection
+Creating things that actually matter
+
+## 📫 Let’s Connect
+📧 Email: saishnu2503@gmail.com
+💼 LinkedIn: (add your link here)
+🌐 Website: https://www.saishnu.com/
